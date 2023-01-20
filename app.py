@@ -9,6 +9,36 @@ from stmol import showmol
 from rdkit import Chem
 from rdkit.Chem import AllChem
 
+page="""
+<style>
+[data-testid="stAppViewContainer"]{
+
+}
+
+[data-testid="stHeader"]{
+background-color: rgba(0,0,0,0);
+}
+
+[data-testid="stToolbar"]{
+right: 2rem;
+
+}
+
+[data-testid="stMarkdown"]{
+color: rgba(255,255,255,0);
+}
+
+
+[data-testid="stSidebar"]> div:first-child{
+background-image: url("https://media.istockphoto.com/id/1350643908/photo/orange-paper-top-view-abstract-bright-background-without-texture.jpg?b=1&s=170667a&w=0&k=20&c=aNwk1MWvLMpgShx8nqxqatcUVdVxEi3dSRc9XfmpDa8=");
+
+background-size: cover;
+
+}
+</style>
+"""
+
+st.markdown(page, unsafe_allow_html=True)
 
 def load_lottiefile(filepath: str):
     with open(filepath, "r") as f:
@@ -34,7 +64,7 @@ def side():
 
         st.write("To remove the fear of nomenclature of chemical structure and also to draw the structure ⌬. Making Logic clear would help individual solve more complex question. X-Mol also contains the practice problems of various difficuly level 🎚️.")
 
-        st.write("""To make student feel competitive, interested and enthusiastic to solve & understand more number of chemical structure by attempting the quiz and scoring in it 💯. The molecular formula and chemical structure are the base of the chemistry to go more beyond towards the chemical reaction. The goal is to provide the platform to make the application which makes 'General Organic Chemistry' more strong 🏆.""")
+        st.write("""To make student feel competitive, interested and enthusiastic to solve & understand more number of chemical structure by attempting the quiz and scoring in it 💯. The goal is to provide the platform to make the application which makes 'General Organic Chemistry' more strong 🏆.""")
 
         st.header("Features:")
         st.write('''

@@ -3,7 +3,6 @@ streamlit_lottie
 streamlit_option_menu 
 stmol 
 py3Dmol
-biotite
 requests
 stmol 
 rdkit 

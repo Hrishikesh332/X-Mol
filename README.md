@@ -22,7 +22,7 @@
 
 ## Do Check Out ExPro 🔬:
 
-[![X-Mol](https://img.shields.io/badge/X-Mol-152238?style=for-the-badge&logo=Streamlit&logoColor=white)](https://hrishikesh332-chem-master-app-26iy0f.streamlit.app/)
+[![X-Mol](https://img.shields.io/badge/XMol-152238?style=for-the-badge&logo=Streamlit&logoColor=white)](https://hrishikesh332-chem-master-app-26iy0f.streamlit.app/)
 
 <details>
   <summary>Table of Contents</summary>
@@ -66,7 +66,17 @@ To make student feel competitive, interested and enthusiastic to solve & underst
 ## Languages and Tools
 
 <p align="left"> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="bash" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="css3" width="40" height="40"/> </a> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/401953/hugging-face.svg" alt="git" width="40" height="40"/> </a><a href="https://www.python.org/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.python.org/" rel="noreferrer"> <img src="https://github.com/Hrishikesh332/X-Mol/blob/main/src/x-mol.png" alt="git" width="40" height="40"/> </a>
+<a href="https://www.python.org/" rel="noreferrer"> <img src="https://github.com/Hrishikesh332/X-Mol/blob/main/src/Decimer.png" alt="git" width="40" height="40"/> </a>
+<a href="https://www.python.org/" rel="noreferrer"> <img src="https://github.com/Hrishikesh332/X-Mol/blob/main/src/Rdkit.jpg" alt="git" width="40" height="40"/> </a>
+ 
+ ## Demo 1 (From SMILES to Structure & Nomenclature)
+ 
+ ![]("https://github.com/Hrishikesh332/X-Mol/blob/main/src/Demo%201.gif")
+ 
+  ## Demo 2 (Test Out your Skill)
+  
+   ![]("https://github.com/Hrishikesh332/X-Mol/blob/main/src/Demo%202.gif")
+ 
  
  
 

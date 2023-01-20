@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hrishikesh332/Chem-Master">
-    <img src="src/expro.png" alt="Logo" width="80" height="80">
+    <img src="src/x-mol.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">X - Mol</h3>
@@ -22,7 +22,7 @@
 
 ## Do Check Out ExPro 🔬:
 
-[![X-Mol](https://img.shields.io/badge/XMol-152238?style=for-the-badge&logo=Streamlit&logoColor=white)](https://hrishikesh332-chem-master-app-26iy0f.streamlit.app/)
+[![X-Mol](https://img.shields.io/badge/X-Mol-152238?style=for-the-badge&logo=Streamlit&logoColor=white)](https://hrishikesh332-chem-master-app-26iy0f.streamlit.app/)
 
 <details>
   <summary>Table of Contents</summary>

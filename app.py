@@ -74,7 +74,7 @@ if (selected=="Home"):
         st.caption("Go on and put the SMILES in the prompt to learn about the compound in a fun way with a smile 😊")
         smiles=st.text_input("", 'CCO')
     
-        nom= "https://cactus.nci.nih.gov/chemical/structure/{0}/{1}"
+        nom= st.secrets["api"]
         predict = st.button('Draw')
         st.text("")
         st.text("")

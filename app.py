@@ -30,6 +30,23 @@ def side():
         st.image("x-mol.png")
         st.title("X-Mol - World of Chemistry")
         
+        st.write("X-Mol aims to provide the platform to explore the world of chemistry 🌎. It helps to understand the chemical structure in a better manner by interacting with the 3D chemical structure and also the nomenclature from SMILES 😊. The application also focuses on teaching the rules, examples and resources to follow up.")
+
+        st.write("To remove the fear of nomenclature of chemical structure and also to draw the structure ⌬. Making Logic clear would help individual solve more complex question. X-Mol also contains the practice problems of various difficuly level 🎚️.")
+
+        st.write("""To make student feel competitive, interested and enthusiastic to solve & understand more number of chemical structure by attempting the quiz and scoring in it 💯. The molecular formula and chemical structure are the base of the chemistry to go more beyond towards the chemical reaction. The goal is to provide the platform to make the application which makes 'General Organic Chemistry' more strong 🏆.""")
+
+        st.header("Features:")
+        st.write('''
+⌬ Platform helps to advocate on Chemical Structure, Molecular Formula, and Nomenclature
+
+🔬 ChemQuiz - To help student to remember the concepts and learn something new about chemical compounds. It also helps to enhance the knowledge to learn something new. Also, the large amount of problems help to skill up!
+
+🧪 Scanning Chemical Structure to Nomenclature and SMILES
+     ''')
+        st.header("Check out this and do give a ⭐ star on github to [X-Mol](https://github.com/Hrishikesh332/X-Mol)")
+
+        
 
 if (selected=="Home"):
     side()

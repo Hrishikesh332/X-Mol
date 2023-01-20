@@ -45,7 +45,7 @@
 
 ## About
 
-X-Mol aims to provide the platform to explore the world of chemistry 🌎. It helps to understand the chemical structure in a better manner by interacting with the 3D chemical structure and also the nomenclature of the SMILES 😊. The application also focuses on teaching the rules, examples and resources to follow up.
+X-Mol aims to provide the platform to explore the world of chemistry 🌎. It helps to understand the chemical structure in a better manner by interacting with the 3D chemical structure and also the nomenclature from SMILES 😊. The application also focuses on teaching the rules, examples and resources to follow up.
 
 To remove the fear of nomenclature of chemical structure and also to draw the structure ⌬. Making Logic clear would help individual solve more complex question. X-Mol also contains the practice problems of various difficuly level 🎚️. 
 

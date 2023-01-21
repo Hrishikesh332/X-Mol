@@ -22,7 +22,7 @@
 
 ## Do Check Out ExPro 🔬:
 
-[![X-Mol](https://img.shields.io/badge/XMol-152238?style=for-the-badge&logo=Streamlit&logoColor=white)](https://hrishikesh332-chem-master-app-26iy0f.streamlit.app/)
+[![X-Mol](https://img.shields.io/badge/XMol-152238?style=for-the-badge&logo=Streamlit&logoColor=white)](https://xmolecule.streamlit.app/)
 
 <details>
   <summary>Table of Contents</summary>
